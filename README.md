@@ -4,7 +4,7 @@
 
 Neste minigame inspirado no universo **Naruto**, você precisa montar seu time de heróis e enfrentar os maiores vilões da história! Será que você consegue vencer esse embate épico?
 
-🚀 **Acesse o projeto online:** [Clique aqui](https://gabrielcotrimmiron.github.io/herois-vs-viloes-jogo/)  
+🚀 **Acesse o projeto online:** [Clique aqui](https://gabrielcotrimmiron.github.io/herois-vs-viloes/)  
 
 ---
 
