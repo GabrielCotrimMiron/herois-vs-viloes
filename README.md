@@ -39,4 +39,4 @@ Neste minigame inspirado no universo **Naruto**, você precisa montar seu time d
 
 ---
 
-📧 **Contato:** gabrielcotrimmiron@gmail.com
+📧 **Contato:** gabrielcmiron@gmail.com
